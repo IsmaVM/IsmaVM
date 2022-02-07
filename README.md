@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsmaVM or Mr. May
+- 👋 Hi, I’m @IsmaVM or May
 - 👀 I’m interested in databases and development
 - 🌱 I’m currently learning the basic structure of development
 - 💞️ I’m looking to collaborate on different projects as front end or back end to gain experience.
